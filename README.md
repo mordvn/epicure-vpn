@@ -12,8 +12,3 @@ Epicure VPN-Telegram-boot for managing the VPN subscriptions via Marzban API. Su
 - Выдача ссылки на Xray-клиент через Marzban API
 - Поддержка локализаций
 
-## Deploy (Dokploy)
-
-1. **Подготовьте `.env` файл** с настройками:
-
-please visit app/config.py
