@@ -1,4 +1,4 @@
-# Epicure VPN v2
+# Epicure VPN
 
 Epicure VPN-Telegram-boot for managing the VPN subscriptions via Marzban API. Supports the payment of Yoomoney, maintains user database in PostgreSQL and operates on Aiogram.
 
@@ -6,9 +6,12 @@ Epicure VPN-Telegram-boot for managing the VPN subscriptions via Marzban API. Su
 
 ## Features
 
-- Регистрация пользователей
-- Проверка подписки
-- Прием платежей через Yoomoney
-- Выдача ссылки на Xray-клиент через Marzban API
-- Поддержка локализаций
+- User registration  
+- Subscription status check  
+- Yoomoney payment handling  
+- Xray client link generation via Marzban API  
+- Localization support
 
+## License
+
+MIT License
