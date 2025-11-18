@@ -10,3 +10,4 @@ try:
 except Exception as e:
     logger.exception("An error occurred when initializing the bot")
     raise
+
